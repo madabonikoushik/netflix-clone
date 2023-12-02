@@ -6,6 +6,4 @@ Features:
 Search Functionality
 Integrated Video Player
 Responsive Design
-Technologies Used:
-
 Frontend: html, CSS
